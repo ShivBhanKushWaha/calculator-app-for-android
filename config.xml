@@ -1,0 +1,14 @@
+<?xml version = '5.0' encoding = 'UTF-8' ?>
+<widget
+    android-versionCode = '5'
+    id = 'com.iBuildThings.SKclock'
+    version = '1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>SK Calculator</name>
+    <description>woking calculator</description>
+    <author>Shivbhan kushwaha</author>
+
+    <preference name = 'orientation' value = 'portrait'/>
+
+</widget>
